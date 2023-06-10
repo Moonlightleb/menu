@@ -8,19 +8,18 @@ html {
 }
 
 body {
-  /* background-image: url(./image/9abc59cab8bd6add3ec91706a9d57530.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;*/
   margin: 0;
   position: relative;
 }
 .page-bg {
-  min-width: 100vw;
-  min-height: 100vh;
   position: fixed;
   top: 0;
-  z-index: -1000;
-  overflow: hidden;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -20;
+  width: 100%;
+  height: 100%;
 }
 
 header {
@@ -183,7 +182,7 @@ i.fa.fa-whatsapp {
   margin-left: 15px;
   margin-bottom: 30px;
   margin-right: 15px;
-  background-image: url(./image/background\ brown1.jpg);
+  background-image: url(./images/section-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: darken;
@@ -279,4 +278,16 @@ i.fa.fa-whatsapp {
     justify-content: center;
     align-items: center;
   }
+}
+
+#progress-bar {
+  width: 100%;
+  height: 4px;
+}
+
+#progress {
+  height: 100%;
+  background-color: #001fe7;
+  width: 0%;
+  transition: width 0.5s ease;
 }

@@ -4,584 +4,598 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Moonligt</title>
+    <link
+      rel="shortcut icon"
+      href="./images/moonlight-png.png"
+      type="image/x-icon" />
     <link rel="stylesheet" href="./style.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   </head>
   <body>
-    <img src="./image/9abc59cab8bd6add3ec91706a9d57530.jpg" class="page-bg" />
-    <!-- header -->
-    <header id="header">
-      <div class="img-header">
-        <img
-          src="image/BackgroundEraser_20230520_133925834.png"
-          alt="moonlightlogo"
-          class="bg-image" />
-      </div>
-      <div class="map">
-        <a
-          href="https://goo.gl/maps/hKSjwHnPApStwDkE6?coh=178573&entry=tt"
-          target="_blank">
-          <i class="fa fa-map-pin"> </i> Ehden, Near Saydet El Hosn
-        </a>
-      </div>
-    </header>
-
-    <!-- scroll -->
-    <div class="all-btn">
-      <div class="container">
-        <div class="btn-grp">
-          <a href="#Sandwiches">
-            <button class="btn">
-              <img src="image/sandwiches.png" class="img-btn" />
-              <p>sandwiches</p>
-            </button>
-          </a>
-        </div>
-        <div class="btn-grp">
-          <a href="#Pizza">
-            <button class="btn">
-              <img src="image/pizzas.png" class="img-btn" />
-              <p>pizza</p>
-            </button>
-          </a>
-        </div>
-        <div class="btn-grp">
-          <a href="#Plates">
-            <button class="btn">
-              <img src="image/plates.png" class="img-btn" />
-              <p>plates</p>
-            </button>
-          </a>
-        </div>
-        <div class="btn-grp">
-          <a href="#Salad">
-            <button class="btn">
-              <img src="image/salads.png" class="img-btn" />
-              <p>salad</p>
-            </button>
-          </a>
-        </div>
-        <div class="btn-grp">
-          <a href="#Dessert">
-            <button class="btn">
-              <img src="image/cake.png" class="img-btn" />
-              <p>dessert</p>
-            </button>
-          </a>
-        </div>
-        <div class="btn-grp">
-          <a href="#Drinks">
-            <button class="btn">
-              <img src="image/drinks.png" class="img-btn" />
-              <p>drinks</p>
-            </button>
-          </a>
-        </div>
-      </div>
+    <div id="progress-bar">
+      <div id="progress"></div>
     </div>
-
-    <!-- Items categories -->
-    <section id="Sandwiches" class="sections">
-      <div class="title1">
-        <div class="image-container">
+    <div id="content" style="display: none">
+      <img src="./images/main-bg.jpg" class="page-bg" />
+      <!-- header -->
+      <header id="header">
+        <div class="img-header">
           <img
-            src="image/ChickenBreast_Baguette_Sandwich.jpg"
-            alt="Sandwich-img"
-            class="img-itm" />
+            src="images/moonlight-png.png"
+            alt="moonlightlogo"
+            class="bg-image" />
         </div>
-        <div class="par">
-          <p>Sandwiches</p>
+        <div class="map">
+          <a
+            href="https://goo.gl/maps/hKSjwHnPApStwDkE6?coh=178573&entry=tt"
+            target="_blank">
+            <i class="fa fa-map-pin"> </i> Ehden, Near Saydet El Hosn
+          </a>
         </div>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Hamburger</legend>
-          <p class="descriptions">
-            Beef patty, sauce, coleslaw, tomatoes, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Cheese Burger</legend>
-          <p class="descriptions">
-            Beef patty, cheese, sauce, coleslaw, tomatoes, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Double Cheese Burger</legend>
-          <p class="descriptions">
-            2 Beef patties, 2 cheese slices, sauce, coleslaw, tomatoes, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Zoro Burger</legend>
-          <p class="descriptions">
-            Beef patty, cheese, ham, salami, sauce, coleslaw, tomatoes, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Chicken Breast Burger</legend>
-          <p class="descriptions">
-            Grilled chicken, fries, garlic, mayo, lettuce, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Crispy Chicken Burger</legend>
-          <p class="descriptions">
-            Crispy chicken, cheese, fries, garlic, mayo, lettuce, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Steak and Cheese</legend>
-          <p class="descriptions">
-            Steak, cheese, mushrooms, mayo, lettuce, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Chicken Steak</legend>
-          <p class="descriptions">
-            Grilled chicken, cheese, mushrooms, mayo, lettuce, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Chicken Fajitas</legend>
-          <p class="descriptions">
-            Grilled chicken, cheese, mushrooms, onions, peppers, soy sauce,
-            mayo, lettuce, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Philadelphia Steak</legend>
-          <p class="descriptions">
-            Steak, cheese, mushrooms, onions, peppers, soy sauce, mayo, lettuce,
-            pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Tawouk</legend>
-          <p class="descriptions">
-            Grilled Tawouk, fries, mayo, lettuce, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Sujuk</legend>
-          <p class="descriptions">Sujuk, mayo, lettuce, tomatoes, pickles.</p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Cheese Sujuk</legend>
-          <p class="descriptions">
-            Sujuk, cheese, mayo, lettuce, tomatoes, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Submarine</legend>
-          <p class="descriptions">
-            Cheese, ham, salami, mayo, mustard, tomatoes, lettuce, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Hot Dog</legend>
-          <p class="descriptions">
-            Hot dog, ketchup, mayo, mustard, tomatoes, lettuce, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Tuna Fish</legend>
-          <p class="descriptions">
-            Tuna, mayo, mustard, lettuce, tomatoes, pickles.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-    </section>
+      </header>
 
-    <section id="Pizza" class="sections">
-      <div class="title1">
-        <div class="image-container">
-          <img src="image/pizza pep.jpg" alt="Sandwich-img" class="img-itm" />
+      <!-- scroll -->
+      <div class="all-btn">
+        <div class="container">
+          <div class="btn-grp">
+            <a href="#Sandwiches" class="link">
+              <button class="btn">
+                <img src="icons/sandwiches.png" class="img-btn" />
+                <p>sandwiches</p>
+              </button>
+            </a>
+          </div>
+          <div class="btn-grp">
+            <a href="#Pizza" class="link">
+              <button class="btn">
+                <img src="icons/pizzas.png" class="img-btn" />
+                <p>pizza</p>
+              </button>
+            </a>
+          </div>
+          <div class="btn-grp">
+            <a href="#Plates" class="link">
+              <button class="btn">
+                <img src="icons/plates.png" class="img-btn" />
+                <p>plates</p>
+              </button>
+            </a>
+          </div>
+          <div class="btn-grp">
+            <a href="#Salad" class="link">
+              <button class="btn">
+                <img src="icons/salads.png" class="img-btn" />
+                <p>salad</p>
+              </button>
+            </a>
+          </div>
+          <div class="btn-grp">
+            <a href="#Dessert" class="link">
+              <button class="btn">
+                <img src="icons/cake.png" class="img-btn" />
+                <p>dessert</p>
+              </button>
+            </a>
+          </div>
+          <div class="btn-grp">
+            <a href="#Drinks" class="link">
+              <button class="btn">
+                <img src="icons/drinks.png" class="img-btn" />
+                <p>drinks</p>
+              </button>
+            </a>
+          </div>
         </div>
-        <div class="par">
-          <p>Pizza</p>
-        </div>
       </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Pizza Pepperoni</legend>
-          <p class="descriptions">Pepperoni, cheese, mushrooms, sauce.</p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Pizza Chicken</legend>
-          <p class="descriptions">Chicken, cheese, mushrooms, sauce.</p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Pizza Regular</legend>
-          <p class="descriptions">
-            Ham, salami, cheese, olives, mushrooms, green pepper, sauce.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Pizza Margherita</legend>
-          <p class="descriptions">Cheese, sauce.</p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Pizza Vegetarian</legend>
-          <p class="descriptions">
-            Cheese, mushrooms, corn, green pepper, olives, sauce.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Pizza Tuna</legend>
-          <p class="descriptions">
-            Tuna, mushrooms, tomatoes, green pepper, onions, sauce.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-    </section>
 
-    <section id="Plates" class="sections">
-      <div class="title1">
-        <div class="image-container">
-          <img
-            src="image/chicken-fingers-today-main-200227.webp"
-            alt="Sandwich-img"
-            class="img-itm" />
+      <!-- Items categories -->
+      <section id="Sandwiches" class="sections">
+        <div class="title1">
+          <div class="image-container">
+            <img
+              src="./images/sandwish.jpg"
+              alt="Sandwich-img"
+              class="img-itm" />
+          </div>
+          <div class="par">
+            <p>Sandwiches</p>
+          </div>
         </div>
-        <div class="par">
-          <p>Plates</p>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Hamburger</legend>
+            <p class="descriptions">
+              Beef patty, sauce, coleslaw, tomatoes, pickles.
+            </p>
+            <p class="price">2.5$</p>
+          </fieldset>
         </div>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Chicken Tenders</legend>
-          <p class="descriptions">
-            5 pieces of crispy chicken, served with coleslaw, fries and garlic
-            mayo dip.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Chicken Fajitas Plate</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Hamburger Plate</legend>
-          <p class="descriptions">
-            2 Beef patties served with coleslaw, fries and one burger bun.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Cheese Burger Plate</legend>
-          <p class="descriptions">
-            2 Beef patties with cheese served with coleslaw, fries and one
-            burger bun.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Tawouk Plate</legend>
-          <p class="descriptions">
-            Grilled tawouk served with coleslaw, fries, garlic mayo dip and
-            lebanese bread.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Chicken Breast Burger Plate</legend>
-          <p class="descriptions">
-            2 Grilled chicken served with coleslaw, fries, garlic mayo dip and
-            one burger bun.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-    </section>
-    <section id="Salad" class="sections">
-      <div class="title1">
-        <div class="image-container">
-          <img
-            src="image/chicken-caesar-salad-28-1200.jpg"
-            alt="Sandwich-img"
-            class="img-itm" />
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Cheese Burger</legend>
+            <p class="descriptions">
+              Beef patty, cheese, sauce, coleslaw, tomatoes, pickles.
+            </p>
+            <p class="price">3.25$</p>
+          </fieldset>
         </div>
-        <div class="par">
-          <p>Salad</p>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Double Cheese Burger</legend>
+            <p class="descriptions">
+              2 Beef patties, 2 cheese slices, sauce, coleslaw, tomatoes,
+              pickles.
+            </p>
+            <p class="price">6$</p>
+          </fieldset>
         </div>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Chicken Caesar Salad</legend>
-          <p class="descriptions">
-            Iceberg, grilled chicken, croutons, caesar sauce.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Mixed Salad</legend>
-          <p class="descriptions">
-            Lettuce, tomatoes,cucumbers, palmitos, artichokes, corn, asparagus.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Chef Salad</legend>
-          <p class="descriptions">
-            Lettuce, tomatoes, cucumbers, tuna, ham, corn, cheese.
-          </p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Season Salad</legend>
-          <p class="descriptions">Lettuce, tomatoes, cucumbers, corn.</p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Cabbage Salad</legend>
-          <p class="descriptions">Cabbage, mayonnaise, corn.</p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Crab Salad</legend>
-          <p class="descriptions">Crab, lettuce, corn, carrots.</p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-    </section>
-
-    <section id="Dessert" class="sections">
-      <div class="title1">
-        <div class="image-container">
-          <img src="image/tiramissu.jpg" alt="Sandwich-img" class="img-itm" />
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Zoro Burger</legend>
+            <p class="descriptions">
+              Beef patty, cheese, ham, salami, sauce, coleslaw, tomatoes,
+              pickles.
+            </p>
+            <p class="price">5$</p>
+          </fieldset>
         </div>
-        <div class="par">
-          <p>Dessert</p>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Chicken Breast Burger</legend>
+            <p class="descriptions">
+              Grilled chicken, fries, garlic, mayo, lettuce, pickles.
+            </p>
+            <p class="price">2.5$</p>
+          </fieldset>
         </div>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Tiramissu</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">ChocoBa</legend>
-          <p class="descriptions">burger bread, chocolate, bananas.</p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-    </section>
-
-    <section id="Drinks" class="sections">
-      <div class="title1">
-        <div class="image-container">
-          <img src="image/pepsi can.webp" alt="Sandwich-img" class="img-itm" />
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Crispy Chicken Burger</legend>
+            <p class="descriptions">
+              Crispy chicken, cheese, fries, garlic, mayo, lettuce, pickles.
+            </p>
+            <p class="price">4$</p>
+          </fieldset>
         </div>
-        <div class="par">
-          <p>Drinks</p>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Steak and Cheese</legend>
+            <p class="descriptions">
+              Steak, cheese, mushrooms, mayo, lettuce, pickles.
+            </p>
+            <p class="price">5$</p>
+          </fieldset>
         </div>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Soft Drinks</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Water (Small)</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Water (Big)</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Nescafe</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Cappuccino</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Tea</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Green Tea</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Camomile</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Beer Almaza</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Beer Heineken</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Mexican Beer</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-      <div>
-        <fieldset class="fs">
-          <legend class="def">Ananas Xtra</legend>
-          <p class="descriptions"></p>
-          <p class="price">6$</p>
-        </fieldset>
-      </div>
-    </section>
-
-    <!-- footer -->
-
-    <footer>
-      <div class="phone">
-        <a href="tel:+9613574745">
-          <i class="fa fa-phone"> 03/574745</i>
-        </a>
-      </div>
-      <section class="info-sec">
-        <div class="info">
-          <p>&copy;Copyright</p>
-          <p>Developed by Jawad Lahoud</p>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Chicken Steak</legend>
+            <p class="descriptions">
+              Grilled chicken, cheese, mushrooms, mayo, lettuce, pickles.
+            </p>
+            <p class="price">4.5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Chicken Fajitas</legend>
+            <p class="descriptions">
+              Grilled chicken, cheese, mushrooms, onions, peppers, soy sauce,
+              mayo, lettuce, pickles.
+            </p>
+            <p class="price">5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Philadelphia Steak</legend>
+            <p class="descriptions">
+              Steak, cheese, mushrooms, onions, peppers, soy sauce, mayo,
+              lettuce, pickles.
+            </p>
+            <p class="price">6$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Tawouk</legend>
+            <p class="descriptions">
+              Grilled Tawouk, fries, mayo, lettuce, pickles.
+            </p>
+            <p class="price">3.25$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Sujuk</legend>
+            <p class="descriptions">Sujuk, mayo, lettuce, tomatoes, pickles.</p>
+            <p class="price">3.5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Cheese Sujuk</legend>
+            <p class="descriptions">
+              Sujuk, cheese, mayo, lettuce, tomatoes, pickles.
+            </p>
+            <p class="price">4.5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Submarine</legend>
+            <p class="descriptions">
+              Cheese, ham, salami, mayo, mustard, tomatoes, lettuce, pickles.
+            </p>
+            <p class="price">4$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Hot Dog</legend>
+            <p class="descriptions">
+              Hot dog, ketchup, mayo, mustard, tomatoes, lettuce, pickles.
+            </p>
+            <p class="price"></p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Tuna Fish</legend>
+            <p class="descriptions">
+              Tuna, mayo, mustard, lettuce, tomatoes, pickles.
+            </p>
+            <p class="price">4$</p>
+          </fieldset>
         </div>
       </section>
-    </footer>
-    <div class="end-btn">
-      <div class="wp">
-        <a href="https://wa.link/55p5bs" target="_blank">
-          <button>
-            <i class="fa fa-whatsapp"></i>
-          </button>
-        </a>
-      </div>
-      <div class="top">
-        <a href="#header">
-          <button>
-            <i class="fa fa-angle-double-up"></i>
-          </button>
-        </a>
+
+      <section id="Pizza" class="sections">
+        <div class="title1">
+          <div class="image-container">
+            <img src="./images/pizza.jpg" alt="Sandwich-img" class="img-itm" />
+          </div>
+          <div class="par">
+            <p>Pizza</p>
+          </div>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Pizza Pepperoni</legend>
+            <p class="descriptions">Pepperoni, cheese, mushrooms, sauce.</p>
+            <p class="price">7$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Pizza Chicken</legend>
+            <p class="descriptions">Chicken, cheese, mushrooms, sauce.</p>
+            <p class="price">7$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Pizza Regular</legend>
+            <p class="descriptions">
+              Ham, salami, cheese, olives, mushrooms, green pepper, sauce.
+            </p>
+            <p class="price">7$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Pizza Margherita</legend>
+            <p class="descriptions">Cheese, sauce.</p>
+            <p class="price">5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Pizza Vegetarian</legend>
+            <p class="descriptions">
+              Cheese, mushrooms, corn, green pepper, olives, sauce.
+            </p>
+            <p class="price">6$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Pizza Sujuk</legend>
+            <p class="descriptions">Cheese, sujuk, sauce, tomatoes.</p>
+            <p class="price">7$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Pizza Tuna</legend>
+            <p class="descriptions">
+              Tuna, mushrooms, tomatoes, green pepper, onions, sauce.
+            </p>
+            <p class="price">6$</p>
+          </fieldset>
+        </div>
+      </section>
+
+      <section id="Plates" class="sections">
+        <div class="title1">
+          <div class="image-container">
+            <img src="images/platers.webp" alt="Sandwich-img" class="img-itm" />
+          </div>
+          <div class="par">
+            <p>Plates</p>
+          </div>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Chicken Tenders</legend>
+            <p class="descriptions">
+              5 pieces of crispy chicken, served with coleslaw, fries and garlic
+              mayo dip.
+            </p>
+            <p class="price">6.5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Chicken Fajitas Plate</legend>
+            <p class="descriptions"></p>
+            <p class="price">8$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Hamburger Plate</legend>
+            <p class="descriptions">
+              2 Beef patties served with coleslaw, fries and one burger bun.
+            </p>
+            <p class="price">6$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Cheese Burger Plate</legend>
+            <p class="descriptions">
+              2 Beef patties with cheese served with coleslaw, fries and one
+              burger bun.
+            </p>
+            <p class="price">8$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Tawouk Plate</legend>
+            <p class="descriptions">
+              Grilled tawouk served with coleslaw, fries, garlic mayo dip and
+              lebanese bread.
+            </p>
+            <p class="price">7$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Chicken Breast Burger Plate</legend>
+            <p class="descriptions">
+              2 Grilled chicken served with coleslaw, fries, garlic mayo dip and
+              one burger bun.
+            </p>
+            <p class="price">6$</p>
+          </fieldset>
+        </div>
+      </section>
+      <section id="Salad" class="sections">
+        <div class="title1">
+          <div class="image-container">
+            <img src="./images/salad.jpg" alt="Sandwich-img" class="img-itm" />
+          </div>
+          <div class="par">
+            <p>Salad</p>
+          </div>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Chicken Caesar Salad</legend>
+            <p class="descriptions">
+              Iceberg, grilled chicken, croutons, caesar sauce.
+            </p>
+            <p class="price">5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Mixed Salad</legend>
+            <p class="descriptions">
+              Lettuce, tomatoes,cucumbers, palmitos, artichokes, corn,
+              asparagus.
+            </p>
+            <p class="price"></p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Chef Salad</legend>
+            <p class="descriptions">
+              Lettuce, tomatoes, cucumbers, tuna, ham, corn, cheese.
+            </p>
+            <p class="price">5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Season Salad</legend>
+            <p class="descriptions">Lettuce, tomatoes, cucumbers, corn.</p>
+            <p class="price">3$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Cabbage Salad</legend>
+            <p class="descriptions">Cabbage, mayonnaise, corn.</p>
+            <p class="price">2$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Crab Salad</legend>
+            <p class="descriptions">Crab, lettuce, corn, carrots.</p>
+            <p class="price">5$</p>
+          </fieldset>
+        </div>
+      </section>
+
+      <section id="Dessert" class="sections">
+        <div class="title1">
+          <div class="image-container">
+            <img src="./images/tiramissu.jpg" alt="tiramissu" class="img-itm" />
+          </div>
+          <div class="par">
+            <p>Dessert</p>
+          </div>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Tiramissu</legend>
+            <p class="descriptions"></p>
+            <p class="price"></p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">ChocoBa</legend>
+            <p class="descriptions">burger bread, chocolate, bananas.</p>
+            <p class="price">1.5$</p>
+          </fieldset>
+        </div>
+      </section>
+
+      <section id="Drinks" class="sections">
+        <div class="title1">
+          <div class="image-container">
+            <img src="./images/pepsi.webp" alt="drink-img" class="img-itm" />
+          </div>
+          <div class="par">
+            <p>Drinks</p>
+          </div>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Soft Drinks</legend>
+            <p class="descriptions"></p>
+            <p class="price">0.8$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Water (Small)</legend>
+            <p class="descriptions"></p>
+            <p class="price">0.5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Water (Big)</legend>
+            <p class="descriptions"></p>
+            <p class="price">1$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Nescafe</legend>
+            <p class="descriptions"></p>
+            <p class="price">1$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Cappuccino</legend>
+            <p class="descriptions"></p>
+            <p class="price">1.5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Tea</legend>
+            <p class="descriptions"></p>
+            <p class="price">0.7$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Green Tea</legend>
+            <p class="descriptions"></p>
+            <p class="price">0.7$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Camomile</legend>
+            <p class="descriptions"></p>
+            <p class="price">0.7$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Beer Almaza</legend>
+            <p class="descriptions"></p>
+            <p class="price">1.5$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Beer Heineken</legend>
+            <p class="descriptions"></p>
+            <p class="price"></p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Mexican Beer</legend>
+            <p class="descriptions"></p>
+            <p class="price">2$</p>
+          </fieldset>
+        </div>
+        <div>
+          <fieldset class="fs">
+            <legend class="def">Ananas Xtra</legend>
+            <p class="descriptions"></p>
+            <p class="price">0.8$</p>
+          </fieldset>
+        </div>
+      </section>
+
+      <!-- footer -->
+
+      <footer>
+        <div class="phone">
+          <a href="tel:+9613574745">
+            <i class="fa fa-phone"> 03/574745</i>
+          </a>
+        </div>
+        <section class="info-sec">
+          <div class="info">
+            <p>&copy;Copyright</p>
+            <p>Developed by Jawad Lahoud</p>
+          </div>
+        </section>
+      </footer>
+      <div class="end-btn">
+        <div class="wp">
+          <a href="https://wa.link/55p5bs" target="_blank">
+            <button>
+              <i class="fa fa-whatsapp"></i>
+            </button>
+          </a>
+        </div>
+        <div class="top">
+          <a href="#header">
+            <button>
+              <i class="fa fa-angle-double-up"></i>
+            </button>
+          </a>
+        </div>
       </div>
     </div>
+    <script src="./script.js"></script>
   </body>
 </html>
