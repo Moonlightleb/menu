@@ -323,4 +323,5 @@ a:active,
 a:hover,
 a:visited {
   background-color: unset !important;
+  color: unset !important;
 }
