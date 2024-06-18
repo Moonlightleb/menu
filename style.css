@@ -318,3 +318,9 @@ i.fa.fa-whatsapp {
   width: 0%;
   transition: width 0.5s ease;
 }
+
+a:active,
+a:hover,
+a:visited {
+  background-color: unset !important;
+}
