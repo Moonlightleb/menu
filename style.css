@@ -179,7 +179,7 @@ i.fa.fa-whatsapp {
 
 .btn p {
   margin: -3px;
-
+  color: black !important;
   font-style: italic;
   font-family: "Times New Roman", Times, serif;
   font-size: 15px;
