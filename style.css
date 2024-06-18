@@ -322,6 +322,21 @@ i.fa.fa-whatsapp {
 a:active,
 a:hover,
 a:visited {
-  background-color: unset !important;
-  color: unset !important;
+  background-color: unset;
+  color: black;
 }
+
+a {
+  color: black;
+}
+
+.a-white {
+  color: white;
+}
+.a-white:active,
+.a-white:hover,
+.a-white:visited {
+  background-color: unset !important;
+  color: white !important;
+}
+
