@@ -40,14 +40,14 @@ header {
 }
 
 .map a {
-  color: beige;
+  color: white;
   text-decoration: none;
   padding: 10px 0;
 }
 
 .insta a {
   margin-top: 8px;
-  color: beige;
+  color: white;
   text-decoration: none;
   padding: 10px 0;
   display: flex;
@@ -101,7 +101,7 @@ header {
 }
 
 .phone i {
-  color: beige;
+  color: white;
 }
 
 .phone a {
@@ -154,19 +154,19 @@ i.fa.fa-whatsapp {
   max-width: 510px;
   padding: 5px;
   overflow-x: auto;
-  background-image: radial-gradient(rgb(238, 234, 222), #ffd19a, #995656);
+  /* background-image: radial-gradient(rgb(238, 234, 222), #ffd19a, #995656); */
 }
 
 .btn-grp {
   margin: 5px;
-  border: 1px solid black;
-  min-width: 90px;
-  box-shadow: 0 0 10px 0;
+  /* border: 1px solid rgba(0, 0, 0, 0.411); */
+  min-width: 100px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.332);
 }
 
 .btn {
   height: 60px;
-  width: 90px;
+  width: 100px;
 }
 
 .img-btn {
@@ -178,10 +178,12 @@ i.fa.fa-whatsapp {
 }
 
 .btn p {
-  margin: 0;
+  margin: -3px;
+
   font-style: italic;
   font-family: "Times New Roman", Times, serif;
-  font-size: 15px bold;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 /* Items categories */
@@ -199,7 +201,8 @@ i.fa.fa-whatsapp {
   margin-left: 15px;
   margin-bottom: 30px;
   margin-right: 15px;
-  background-image: url(./images/Bgbeige.jpg);
+  background-color: #d1d5d8a1;
+  /* background-image: url(./images/white.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: darken;
@@ -222,7 +225,7 @@ i.fa.fa-whatsapp {
   max-width: 95%;
   max-height: 95%;
   border-radius: 20%;
-  border: groove #a7a7a7;
+  /* border: groove #a7a7a7; */
 }
 
 .frame {
@@ -242,22 +245,27 @@ i.fa.fa-whatsapp {
 
 .par p {
   margin: auto;
-  border-style: groove;
-  background-color: bisque;
+  /* border-style: groove; */
+  background-color: white;
+  border-radius: 10px;
 }
 
 .fs {
   display: grid;
   grid-template-columns: 1fr 40px;
   border: 1px solid #a7a7a7;
-  box-shadow: 2px 2px 8px;
+  box-shadow: 1px 2px 2px 2px #00000021;
   max-width: 500px;
   margin: 10px auto;
   padding: 10px;
   color: black;
 }
 .def {
-  font-size: 25px;
+  font-size: 18px;
+  background-color: #ffffff8a;
+  padding: 2px 6px;
+  border-radius: 10px;
+  font-weight: bold;
 }
 
 .price {
@@ -265,9 +273,11 @@ i.fa.fa-whatsapp {
 }
 
 .descriptions {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 16px;
+  /* font-family: "Times New Roman", Times, serif; */
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 14px;
   text-decoration: none;
+  font-weight: bold;
 }
 
 @media screen and (min-width: 500px) {
