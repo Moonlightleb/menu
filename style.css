@@ -192,11 +192,16 @@ article .item:last-of-type {
 #wp-btn svg {
   scale: 1.25;
   color: white !important;
+  margin-top: 4px;
 }
 
 #up-btn {
   right: 30px;
   background-color: #efefef;
+}
+
+#up-btn svg {
+  margin-top: 4px;
 }
 
 @media screen and (min-width: 550px) {
