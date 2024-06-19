@@ -177,7 +177,6 @@ article .item:last-of-type {
   bottom: 2rem;
   width: 2rem;
   height: 2rem;
-  display: flex;
   align-items: center;
   justify-content: center;
   z-index: 5;
@@ -185,7 +184,7 @@ article .item:last-of-type {
   cursor: pointer;
 }
 #wp-btn {
-  left: calc(50vw - 250px);
+  left: 30px;
   border-radius: 50%;
   scale: 1.1;
   background-color: #2db82d;
@@ -196,16 +195,16 @@ article .item:last-of-type {
 }
 
 #up-btn {
-  right: calc(50vw - 250px);
+  right: 30px;
   background-color: #efefef;
 }
 
-@media screen and (min-width: 670px) {
+@media screen and (min-width: 550px) {
   #wp-btn {
-    left: calc(50vw - 300px);
+    left: calc(50vw - 250px);
   }
   #up-btn {
-    right: calc(50vw - 300px);
+    right: calc(50vw - 250px);
   }
 }
 
