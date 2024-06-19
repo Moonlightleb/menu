@@ -500,7 +500,7 @@ const upBtn = document.getElementById("up-btn");
 const appearPoint = window.innerHeight * 0.1;
 
 window.addEventListener("scroll", () => {
-  const scrollPosition = window.pageYOffset;
+  const scrollPosition = window.scrollY;
   if (scrollPosition >= appearPoint) {
     wpBtn.style.display = "flex";
     upBtn.style.display = "flex";
