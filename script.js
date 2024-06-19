@@ -31,7 +31,7 @@ const categories = [
   {
     name: "Drinks",
     icon: "./icons/drinks.png",
-    picture: "./images/drinks.webp",
+    picture: "./images/drinks.jpg",
   },
 ];
 
@@ -250,7 +250,7 @@ const data = [
   //   name: "Mixed Salad",
   //   description:
   //     "Lettuce, tomatoes,cucumbers, palmitos, artichokes, corn, asparagus.",
-  //   category: "Salad",
+  //   category: "Salads",
   //   price: 0,
   // },
   {
