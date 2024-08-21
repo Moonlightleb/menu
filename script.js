@@ -350,13 +350,13 @@ const data = [
     price: 1.5,
   },
   {
-    name: "Beer Almaza",
+    name: "Almaza Beer",
     description: "",
     category: "Drinks",
     price: 2,
   },
   {
-    name: "Beer Heineken",
+    name: "Heineken Beer",
     description: "",
     category: "Drinks",
     price: 2.5,
@@ -369,6 +369,12 @@ const data = [
   },
   {
     name: "Ananas Extra",
+    description: "",
+    category: "Drinks",
+    price: 1,
+  },
+  {
+    name: "Lemonade",
     description: "",
     category: "Drinks",
     price: 1,
