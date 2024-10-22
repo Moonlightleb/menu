@@ -562,8 +562,7 @@ function sendLogData() {
       utm_medium: urlParams.get("utm_medium"),
       utm_campaign: urlParams.get("utm_campaign"),
     },
-    service: "external menu",
-    brand: "Moonlight",
+    service: "6716b8e3f44a6eb6e66abaf8",
   };
 }
 
