@@ -562,7 +562,7 @@ function sendLogData() {
       utm_medium: urlParams.get("utm_medium"),
       utm_campaign: urlParams.get("utm_campaign"),
     },
-    service: "6716b8e3f44a6eb6e66abaf8",
+    service: "66d739121389bc24cc9d5407",
   };
 }
 
