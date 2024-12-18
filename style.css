@@ -53,6 +53,30 @@ header {
   gap: 8px;
 }
 
+.details a svg {
+  min-width: 30px;
+}
+
+.details-insta-fb {
+  margin-top: 8px;
+  color: white;
+  text-decoration: none;
+  padding: 5px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.details-insta-fb svg {
+  min-width: 30px;
+}
+
+.details-insta-fb span {
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
 #btn-group {
   display: flex;
   gap: 10px;
@@ -65,9 +89,12 @@ header {
 }
 
 #btn-group button {
-  height: 60px;
-  width: 110px;
-  min-width: 110px;
+  min-height: 60px;
+  min-width: 100px;
+  max-width: 160px;
+  flex: 0 0 auto;
+  word-break: break-word;
+  overflow-wrap: break-word;
   padding: 0;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.332);
   color: black !important;
@@ -114,6 +141,8 @@ section {
   background-color: white;
   border-radius: 10px;
   width: 85%;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .item {
