@@ -164,7 +164,8 @@ article .item:last-of-type {
 
 .item-details {
   display: grid;
-  grid-template-columns: 1fr 40px;
+  grid-template-columns: 1fr auto;
+  gap: 8px;
 }
 
 .item-name {
@@ -175,10 +176,14 @@ article .item:last-of-type {
   font-weight: bold;
   width: fit-content;
   margin-top: -23px;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .price {
   text-align: end;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .description {
@@ -187,6 +192,8 @@ article .item:last-of-type {
   text-decoration: none;
   font-weight: bold;
   padding: 8px 0;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 #progress-bar {

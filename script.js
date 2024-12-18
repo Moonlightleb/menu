@@ -255,7 +255,11 @@ function displayMenu() {
     section.id = category._id;
     section.innerHTML += `
       <div class="section-header">
-        <img src="${category.picture}" />
+        ${
+          category.picture
+            ? `<img src="${category.picture}" alt="${category.name}"/>`
+            : ""
+        }
         <p>${capitalizeFirstLetter(category.name)}</p>
       </div>`;
 
@@ -267,7 +271,7 @@ function displayMenu() {
         <div class="item">
           <div class="item-name">${item.name}</div>
           <div class=item-details>
-            <div class="description">${item.description}</div>
+            <div class="description">${item.description || ""}</div>
             <div class="price">${setPrice(item.price)}</div>
           </div>
         </div>`;
@@ -285,7 +289,7 @@ function capitalizeFirstLetter(s) {
 
 function setPrice(p) {
   if (typeof p === "number") {
-    return `${p}$`;
+    return `${p}${MENU_DATA.store.currency}`;
   } else if (typeof p === "string") {
     return p;
   }
@@ -369,4 +373,4 @@ function generateUUID() {
   });
 }
 
-// callLogApi();
+callLogApi();
