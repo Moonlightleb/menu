@@ -16,14 +16,14 @@ const MENU_DATA = {
     "mainLang": "en",
     "storeName": "Moonlight",
     "createdAt": "2024-12-11T20:07:55.207Z",
-    "updatedAt": "2024-12-18T14:29:57.444Z",
+    "updatedAt": "2024-12-19T18:09:16.715Z",
     "__v": 0,
     "aboutUs": "",
     "aboutUsTranslation": {},
     "displayedPhoneNumber": "03 574 574",
     "phoneNumber": "+9613574574",
     "storeLogo": "https://moonlightleb.github.io/menu/images/moonlight-logo-low.png",
-    "templateId": "2"
+    "templateId": "moonlight"
   },
   "categories": [],
   "sub_categories": [
@@ -32,11 +32,11 @@ const MENU_DATA = {
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Pizza",
       "order": 2,
-      "img": "assets/icons/pizzas.png",
-      "bgImg": "https://moonlightleb.github.io/menu/images/pizzas.jpg",
+      "img": "",
+      "bgImg": "./images/pizzas.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.908Z",
-      "updatedAt": "2024-12-12T11:03:07.408Z",
+      "updatedAt": "2024-12-19T18:09:17.366Z",
       "__v": 0
     },
     {
@@ -44,11 +44,11 @@ const MENU_DATA = {
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Salads",
       "order": 4,
-      "img": "assets/icons/salads.png",
-      "bgImg": "https://moonlightleb.github.io/menu/images/salads.jpg",
+      "img": "",
+      "bgImg": "./images/salads.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.913Z",
-      "updatedAt": "2024-12-12T11:03:23.074Z",
+      "updatedAt": "2024-12-19T18:09:17.798Z",
       "__v": 0
     },
     {
@@ -56,11 +56,11 @@ const MENU_DATA = {
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Desserts",
       "order": 6,
-      "img": "assets/icons/cake.png",
-      "bgImg": "https://moonlightleb.github.io/menu/images/desserts.jpg",
+      "img": "",
+      "bgImg": "./images/desserts.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.916Z",
-      "updatedAt": "2024-12-12T11:03:49.372Z",
+      "updatedAt": "2024-12-19T18:09:18.230Z",
       "__v": 0
     },
     {
@@ -68,11 +68,11 @@ const MENU_DATA = {
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Burgers",
       "order": 1,
-      "img": "assets/icons/plates.png",
-      "bgImg": "https://moonlightleb.github.io/menu/images/burgers.jpg",
+      "img": "",
+      "bgImg": "./images/burgers.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.906Z",
-      "updatedAt": "2024-12-12T11:02:57.044Z",
+      "updatedAt": "2024-12-19T18:09:17.150Z",
       "__v": 0
     },
     {
@@ -80,11 +80,11 @@ const MENU_DATA = {
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Sandwiches",
       "order": 0,
-      "img": "assets/icons/sandwiches.png",
-      "bgImg": "https://moonlightleb.github.io/menu/images/sandwiches.jpg",
+      "img": "",
+      "bgImg": "./images/sandwiches.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.902Z",
-      "updatedAt": "2024-12-12T11:02:46.481Z",
+      "updatedAt": "2024-12-19T18:09:16.933Z",
       "__v": 0
     },
     {
@@ -92,11 +92,11 @@ const MENU_DATA = {
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Platters",
       "order": 3,
-      "img": "assets/icons/salads.png",
-      "bgImg": "https://moonlightleb.github.io/menu/images/platters.jpg",
+      "img": "",
+      "bgImg": "./images/platters.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.909Z",
-      "updatedAt": "2024-12-12T11:03:16.800Z",
+      "updatedAt": "2024-12-19T18:09:17.582Z",
       "__v": 0
     },
     {
@@ -104,11 +104,11 @@ const MENU_DATA = {
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Fries",
       "order": 5,
-      "img": "assets/icons/fries.png",
-      "bgImg": "https://moonlightleb.github.io/menu/images/fries.jpg",
+      "img": "",
+      "bgImg": "./images/fries.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.914Z",
-      "updatedAt": "2024-12-12T11:03:38.369Z",
+      "updatedAt": "2024-12-19T18:09:18.013Z",
       "__v": 0
     },
     {
@@ -116,11 +116,11 @@ const MENU_DATA = {
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Drinks",
       "order": 7,
-      "img": "assets/icons/drinks.png",
-      "bgImg": "https://moonlightleb.github.io/menu/images/drinks.jpg",
+      "img": "",
+      "bgImg": "./images/drinks.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.917Z",
-      "updatedAt": "2024-12-12T11:04:08.187Z",
+      "updatedAt": "2024-12-19T18:09:18.447Z",
       "__v": 0
     }
   ],
@@ -131,12 +131,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Philadelphia Steak",
       "description": "Steak, cheese, mushrooms, onions, peppers, soy sauce, mayo, lettuce, pickles.",
-      "order": 1,
+      "order": 2,
       "price": 6.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.851Z",
-      "updatedAt": "2024-12-11T23:47:14.851Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -145,12 +145,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Cheese Sujuk",
       "description": "Sujuk, cheese, mayo, lettuce, tomatoes, pickles.",
-      "order": 6,
+      "order": 7,
       "price": 4.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.860Z",
-      "updatedAt": "2024-12-11T23:47:14.860Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -159,12 +159,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Hot Dog",
       "description": "Hot dog, ketchup, mayo, mustard, tomatoes, lettuce, pickles.",
-      "order": 8,
+      "order": 9,
       "price": 2.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.863Z",
-      "updatedAt": "2024-12-11T23:47:14.863Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -173,12 +173,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122e",
       "label": "Pizza Regular",
       "description": "Ham, salami, cheese, olives, mushrooms, green pepper, sauce.",
-      "order": 20,
+      "order": 4,
       "price": 8,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.880Z",
-      "updatedAt": "2024-12-11T23:47:14.880Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -187,12 +187,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122e",
       "label": "Pizza Margherita",
       "description": "Cheese, sauce.",
-      "order": 21,
+      "order": 5,
       "price": 6,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.881Z",
-      "updatedAt": "2024-12-11T23:47:14.881Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -201,12 +201,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611232",
       "label": "Crab Salad",
       "description": "Crab, lettuce, corn, carrots.",
-      "order": 32,
+      "order": 2,
       "price": 5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.894Z",
-      "updatedAt": "2024-12-11T23:47:14.894Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -215,12 +215,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Cappuccino",
       "description": "",
-      "order": 45,
+      "order": 5,
       "price": 2,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.912Z",
-      "updatedAt": "2024-12-11T23:47:14.912Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -229,12 +229,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Camomile",
       "description": "",
-      "order": 48,
+      "order": 8,
       "price": 1.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.915Z",
-      "updatedAt": "2024-12-11T23:47:14.915Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -243,12 +243,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Almaza Beer",
       "description": "",
-      "order": 49,
+      "order": 9,
       "price": 2,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.916Z",
-      "updatedAt": "2024-12-11T23:47:14.916Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -257,12 +257,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Heineken Beer",
       "description": "",
-      "order": 50,
+      "order": 10,
       "price": 2.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.917Z",
-      "updatedAt": "2024-12-11T23:47:14.917Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -271,12 +271,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Perrier",
       "description": "",
-      "order": 54,
+      "order": 14,
       "price": 1,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.923Z",
-      "updatedAt": "2024-12-11T23:47:14.923Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -285,12 +285,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Chicken Fajitas",
       "description": "Grilled chicken, cheese, mushrooms, onions, peppers, soy sauce, mayo, lettuce, pickles.",
-      "order": 3,
+      "order": 4,
       "price": 6,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.856Z",
-      "updatedAt": "2024-12-11T23:47:14.856Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -299,12 +299,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Tawouk",
       "description": "Grilled Tawouk, fries, mayo, lettuce, pickles.",
-      "order": 4,
+      "order": 5,
       "price": 4,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.857Z",
-      "updatedAt": "2024-12-11T23:47:14.857Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -313,12 +313,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122c",
       "label": "Double Cheese Burger",
       "description": "2 Beef patties, 2 cheese slices, sauce, coleslaw, tomatoes, pickles.",
-      "order": 12,
+      "order": 3,
       "price": 6,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.870Z",
-      "updatedAt": "2024-12-11T23:47:14.870Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -327,12 +327,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122e",
       "label": "Pizza Chicken",
       "description": "Chicken, cheese, mushrooms, sauce.",
-      "order": 18,
+      "order": 2,
       "price": 8,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.878Z",
-      "updatedAt": "2024-12-11T23:47:14.878Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -341,12 +341,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122e",
       "label": "Pizza BBQ Chicken",
       "description": "Chicken, cheese, mushrooms, Barbecue sauce.",
-      "order": 19,
+      "order": 3,
       "price": 8,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.879Z",
-      "updatedAt": "2024-12-11T23:47:14.879Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -355,12 +355,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122e",
       "label": "Pizza Sujuk",
       "description": "Cheese, sujuk, sauce, tomatoes.",
-      "order": 23,
+      "order": 7,
       "price": 8,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.883Z",
-      "updatedAt": "2024-12-11T23:47:14.883Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -369,12 +369,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122e",
       "label": "Pizza Tuna",
       "description": "Tuna, mushrooms, tomatoes, green pepper, onions, sauce.",
-      "order": 24,
+      "order": 8,
       "price": 7,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.884Z",
-      "updatedAt": "2024-12-11T23:47:14.884Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -383,12 +383,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611230",
       "label": "Chicken Tenders",
       "description": "5 pieces of crispy chicken, served with coleslaw, fries and garlic mayo dip.",
-      "order": 27,
+      "order": 3,
       "price": 7,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.888Z",
-      "updatedAt": "2024-12-11T23:47:14.888Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -397,12 +397,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611230",
       "label": "Chicken Fajitas Platter",
       "description": "Fajitas sandwich served with french fries and coleslaw.",
-      "order": 28,
+      "order": 4,
       "price": 8,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.889Z",
-      "updatedAt": "2024-12-11T23:47:14.889Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -411,12 +411,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611230",
       "label": "Chicken Breast Burger Platter",
       "description": "2 Grilled chicken served with coleslaw, fries, garlic mayo dip and one burger bun.",
-      "order": 30,
+      "order": 6,
       "price": 7,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.891Z",
-      "updatedAt": "2024-12-11T23:47:14.891Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -425,12 +425,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Water (Big)",
       "description": "",
-      "order": 43,
+      "order": 3,
       "price": 1,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.909Z",
-      "updatedAt": "2024-12-11T23:47:14.909Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -439,12 +439,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Nescafe",
       "description": "",
-      "order": 44,
+      "order": 4,
       "price": 1.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.911Z",
-      "updatedAt": "2024-12-11T23:47:14.911Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -453,12 +453,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Tea",
       "description": "",
-      "order": 46,
+      "order": 6,
       "price": 1.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.913Z",
-      "updatedAt": "2024-12-11T23:47:14.913Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -467,12 +467,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Steak and Cheese",
       "description": "Steak, cheese, mushrooms, mayo, lettuce, pickles.",
-      "order": 0,
+      "order": 1,
       "price": 6,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.832Z",
-      "updatedAt": "2024-12-11T23:47:14.832Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -481,12 +481,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Tuna Fish",
       "description": "Tuna, mayo, mustard, lettuce, tomatoes, pickles.",
-      "order": 9,
+      "order": 10,
       "price": 4,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.864Z",
-      "updatedAt": "2024-12-11T23:47:14.864Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -495,12 +495,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122c",
       "label": "Chicken Breast Burger",
       "description": "Grilled chicken, fries, garlic, mayo, lettuce, pickles.",
-      "order": 14,
+      "order": 5,
       "price": 3,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.873Z",
-      "updatedAt": "2024-12-11T23:47:14.873Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -509,12 +509,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122c",
       "label": "BBQ Chicken Burger",
       "description": "Crispy chicken, cheese, fries, Barbecue, mayo, lettuce, pickles.",
-      "order": 16,
+      "order": 7,
       "price": 4,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.875Z",
-      "updatedAt": "2024-12-11T23:47:14.875Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -523,12 +523,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611230",
       "label": "Tawouk Platter",
       "description": "Grilled tawouk served with coleslaw, fries, garlic mayo dip and lebanese bread.",
-      "order": 29,
+      "order": 5,
       "price": 8,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.890Z",
-      "updatedAt": "2024-12-11T23:47:14.890Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -537,12 +537,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611232",
       "label": "Cabbage Salad",
       "description": "Cabbage, mayonnaise, corn.",
-      "order": 35,
+      "order": 5,
       "price": 2,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.897Z",
-      "updatedAt": "2024-12-11T23:47:14.897Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -551,12 +551,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611234",
       "label": "Fries Box",
       "description": "",
-      "order": 37,
+      "order": 2,
       "price": 2,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.899Z",
-      "updatedAt": "2024-12-11T23:47:14.899Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -565,12 +565,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611234",
       "label": "Fries Sandwich",
       "description": "",
-      "order": 38,
+      "order": 3,
       "price": 2.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.900Z",
-      "updatedAt": "2024-12-11T23:47:14.900Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -579,12 +579,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Water (Small)",
       "description": "",
-      "order": 42,
+      "order": 2,
       "price": 0.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.908Z",
-      "updatedAt": "2024-12-11T23:47:14.908Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -593,12 +593,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Green Tea",
       "description": "",
-      "order": 47,
+      "order": 7,
       "price": 1.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.914Z",
-      "updatedAt": "2024-12-11T23:47:14.914Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -607,12 +607,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Chicken Steak",
       "description": "Grilled chicken, cheese, mushrooms, mayo, lettuce, pickles.",
-      "order": 2,
+      "order": 3,
       "price": 5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.854Z",
-      "updatedAt": "2024-12-11T23:47:14.854Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -621,12 +621,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Sujuk",
       "description": "Sujuk, mayo, lettuce, tomatoes, pickles.",
-      "order": 5,
+      "order": 6,
       "price": 3.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.859Z",
-      "updatedAt": "2024-12-11T23:47:14.859Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -635,12 +635,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122a",
       "label": "Submarine",
       "description": "Cheese, ham, salami, mayo, mustard, tomatoes, lettuce, pickles.",
-      "order": 7,
+      "order": 8,
       "price": 5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.862Z",
-      "updatedAt": "2024-12-11T23:47:14.862Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -649,12 +649,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122c",
       "label": "Hamburger",
       "description": "Beef patty, sauce, coleslaw, tomatoes, pickles.",
-      "order": 10,
+      "order": 1,
       "price": 3,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.866Z",
-      "updatedAt": "2024-12-11T23:47:14.866Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -663,12 +663,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122c",
       "label": "Cheese Burger",
       "description": "Beef patty, cheese, sauce, coleslaw, tomatoes, pickles.",
-      "order": 11,
+      "order": 2,
       "price": 3.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.868Z",
-      "updatedAt": "2024-12-11T23:47:14.868Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -677,12 +677,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122c",
       "label": "Zoro Burger",
       "description": "Beef patty, cheese, ham, salami, sauce, coleslaw, tomatoes, pickles.",
-      "order": 13,
+      "order": 4,
       "price": 5.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.872Z",
-      "updatedAt": "2024-12-11T23:47:14.872Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -691,12 +691,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122c",
       "label": "Crispy Chicken Burger",
       "description": "Crispy chicken, cheese, fries, garlic, mayo, lettuce, pickles.",
-      "order": 15,
+      "order": 6,
       "price": 4,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.874Z",
-      "updatedAt": "2024-12-11T23:47:14.874Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -705,12 +705,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122e",
       "label": "Pizza Pepperoni",
       "description": "Pepperoni, cheese, mushrooms, sauce.",
-      "order": 17,
+      "order": 1,
       "price": 8,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.876Z",
-      "updatedAt": "2024-12-11T23:47:14.876Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -719,12 +719,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab0961122e",
       "label": "Pizza Vegetarian",
       "description": "Cheese, mushrooms, corn, green pepper, olives, sauce.",
-      "order": 22,
+      "order": 6,
       "price": 7,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.882Z",
-      "updatedAt": "2024-12-11T23:47:14.882Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -733,12 +733,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611230",
       "label": "Hamburger Platter",
       "description": "2 Beef patties served with coleslaw, fries and one burger bun.",
-      "order": 25,
+      "order": 1,
       "price": 7,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.886Z",
-      "updatedAt": "2024-12-11T23:47:14.886Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -747,12 +747,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611230",
       "label": "Cheese Burger Platter",
       "description": "2 Beef patties with cheese served with coleslaw, fries and one burger bun.",
-      "order": 26,
+      "order": 2,
       "price": 9,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.887Z",
-      "updatedAt": "2024-12-11T23:47:14.887Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -761,12 +761,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611232",
       "label": "Chicken Caesar Salad",
       "description": "Iceberg, grilled chicken, croutons, caesar sauce.",
-      "order": 31,
+      "order": 1,
       "price": 5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.893Z",
-      "updatedAt": "2024-12-11T23:47:14.893Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -775,12 +775,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611232",
       "label": "Chef Salad",
       "description": "Lettuce, tomatoes, cucumbers, tuna, ham, corn, cheese.",
-      "order": 33,
+      "order": 3,
       "price": 5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.895Z",
-      "updatedAt": "2024-12-11T23:47:14.895Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -789,12 +789,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611232",
       "label": "Season Salad",
       "description": "Lettuce, tomatoes, cucumbers, corn.",
-      "order": 34,
+      "order": 4,
       "price": 3,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.896Z",
-      "updatedAt": "2024-12-11T23:47:14.896Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -803,12 +803,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611234",
       "label": "Fries Plate",
       "description": "",
-      "order": 36,
+      "order": 1,
       "price": 2.5,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.898Z",
-      "updatedAt": "2024-12-11T23:47:14.898Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -817,12 +817,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611236",
       "label": "Tiramisu",
       "description": "",
-      "order": 39,
+      "order": 1,
       "price": 3,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.901Z",
-      "updatedAt": "2024-12-11T23:47:14.901Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -831,12 +831,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611236",
       "label": "ChocoBa",
       "description": "Burger bread, chocolate, bananas.",
-      "order": 40,
+      "order": 2,
       "price": 2,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.906Z",
-      "updatedAt": "2024-12-11T23:47:14.906Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -845,12 +845,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Soft Drinks",
       "description": "",
-      "order": 41,
+      "order": 1,
       "price": 1,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.907Z",
-      "updatedAt": "2024-12-11T23:47:14.907Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -859,12 +859,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Mexican Beer",
       "description": "",
-      "order": 51,
+      "order": 11,
       "price": 3,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.919Z",
-      "updatedAt": "2024-12-11T23:47:14.919Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -873,12 +873,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Ananas Extra",
       "description": "",
-      "order": 52,
+      "order": 12,
       "price": 1,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.921Z",
-      "updatedAt": "2024-12-11T23:47:14.921Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     },
     {
@@ -887,12 +887,12 @@ const MENU_DATA = {
       "subcategoryId": "675a264036bb2bab09611238",
       "label": "Lemonade",
       "description": "",
-      "order": 53,
+      "order": 13,
       "price": 1,
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.922Z",
-      "updatedAt": "2024-12-11T23:47:14.922Z",
+      "updatedAt": "2024-12-19T18:09:18.663Z",
       "__v": 0
     }
   ]
