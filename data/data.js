@@ -16,13 +16,13 @@ const MENU_DATA = {
     "mainLang": "en",
     "storeName": "Moonlight",
     "createdAt": "2024-12-11T20:07:55.207Z",
-    "updatedAt": "2025-03-26T17:54:11.539Z",
+    "updatedAt": "2025-03-26T18:02:06.144Z",
     "__v": 0,
     "aboutUs": "",
     "aboutUsTranslation": {},
     "displayedPhoneNumber": "03 574 574",
     "phoneNumber": "+9613574574",
-    "storeLogo": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/1b34aa1a-f277-4c0a-b4e6-dfb85c1bf8c2.png",
+    "storeLogo": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/6b2cf9b7-57aa-488c-a150-a200ec15aeb2.png",
     "quote": null,
     "templateId": "moonlight"
   },
@@ -37,7 +37,7 @@ const MENU_DATA = {
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/f3a60723-d200-42ef-b035-010ba5d9427a.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.902Z",
-      "updatedAt": "2025-03-26T17:54:14.223Z",
+      "updatedAt": "2025-03-26T18:02:06.423Z",
       "__v": 0
     },
     {
@@ -49,7 +49,7 @@ const MENU_DATA = {
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/1039bd92-cc28-4eb1-a431-355cb9b45e15.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.906Z",
-      "updatedAt": "2025-03-26T17:54:14.496Z",
+      "updatedAt": "2025-03-26T18:02:06.695Z",
       "__v": 0
     },
     {
@@ -61,7 +61,7 @@ const MENU_DATA = {
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/d10632e7-9781-4492-b8f0-4a5b8e6d023f.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.908Z",
-      "updatedAt": "2025-03-26T17:54:14.769Z",
+      "updatedAt": "2025-03-26T18:02:06.967Z",
       "__v": 0
     },
     {
@@ -73,7 +73,7 @@ const MENU_DATA = {
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/444fcc98-7ca7-4f3d-b344-df788d919a7f.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.909Z",
-      "updatedAt": "2025-03-26T17:54:15.041Z",
+      "updatedAt": "2025-03-26T18:02:07.240Z",
       "__v": 0
     },
     {
@@ -85,7 +85,7 @@ const MENU_DATA = {
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/310bfb74-d7dd-404a-a8a7-1c090e1294b1.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.913Z",
-      "updatedAt": "2025-03-26T17:54:15.314Z",
+      "updatedAt": "2025-03-26T18:02:07.512Z",
       "__v": 0
     },
     {
@@ -97,7 +97,7 @@ const MENU_DATA = {
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/9256382e-a27f-468d-9b8c-1fc7bfe39f73.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.914Z",
-      "updatedAt": "2025-03-26T17:54:15.586Z",
+      "updatedAt": "2025-03-26T18:02:07.783Z",
       "__v": 0
     },
     {
@@ -109,7 +109,7 @@ const MENU_DATA = {
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/0c033fc3-b88c-4daf-8426-15ef55764a4e.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.916Z",
-      "updatedAt": "2025-03-26T17:54:15.860Z",
+      "updatedAt": "2025-03-26T18:02:08.055Z",
       "__v": 0
     },
     {
@@ -121,7 +121,7 @@ const MENU_DATA = {
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/fee15c57-143b-4169-ba66-2e8caae946ac.jpg",
       "hide": false,
       "createdAt": "2024-12-11T23:54:40.917Z",
-      "updatedAt": "2025-03-26T17:54:16.133Z",
+      "updatedAt": "2025-03-26T18:02:08.326Z",
       "__v": 0
     }
   ],
@@ -137,7 +137,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.832Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -151,7 +151,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.851Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -165,7 +165,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.854Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -179,7 +179,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.856Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -193,7 +193,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.857Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -207,7 +207,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.859Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -221,7 +221,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.860Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -235,7 +235,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.862Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -249,7 +249,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.863Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -263,7 +263,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.864Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -277,7 +277,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.866Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -291,7 +291,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.868Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -305,7 +305,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.870Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -319,7 +319,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.872Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -333,7 +333,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.873Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -347,7 +347,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.874Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -361,7 +361,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.875Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -375,7 +375,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.876Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -389,7 +389,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.878Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -403,7 +403,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.879Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -417,7 +417,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.880Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -431,7 +431,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.881Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -445,7 +445,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.882Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -459,7 +459,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.883Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -473,7 +473,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.884Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -487,7 +487,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.886Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -501,7 +501,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.887Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -515,7 +515,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.888Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -529,7 +529,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.889Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -543,7 +543,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.890Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -557,7 +557,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.891Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -571,7 +571,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.893Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -585,7 +585,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.894Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -599,7 +599,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.895Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -613,7 +613,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.896Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -627,7 +627,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.897Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -641,7 +641,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.898Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -655,7 +655,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.899Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -669,7 +669,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.900Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -683,7 +683,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.901Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -697,7 +697,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.906Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -711,7 +711,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.907Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -725,7 +725,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.908Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -739,7 +739,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.909Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -753,7 +753,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.911Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -767,7 +767,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.912Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -781,7 +781,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.913Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -795,7 +795,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.914Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -809,7 +809,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.915Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -823,7 +823,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.916Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -837,7 +837,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.917Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -851,7 +851,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.919Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -865,7 +865,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.921Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -879,7 +879,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.922Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     },
     {
@@ -893,7 +893,7 @@ const MENU_DATA = {
       "hide": false,
       "sizes": [],
       "createdAt": "2024-12-11T23:47:14.923Z",
-      "updatedAt": "2025-03-26T17:54:16.406Z",
+      "updatedAt": "2025-03-26T18:02:08.598Z",
       "__v": 0
     }
   ]
