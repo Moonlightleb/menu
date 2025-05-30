@@ -106,9 +106,15 @@ const MENU_DATA = {
       "label": "Philadelphia Steak",
       "description": "Steak, cheese, mushrooms, onions, peppers, soy sauce, mayo, lettuce, pickles.",
       "order": 2,
-      "price": 6.5,
+      "price": 7,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594c6",
@@ -117,9 +123,15 @@ const MENU_DATA = {
       "label": "Cheese Sujuk",
       "description": "Sujuk, cheese, mayo, lettuce, tomatoes, pickles.",
       "order": 7,
-      "price": 4.5,
+      "price": 5.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594ca",
@@ -128,9 +140,15 @@ const MENU_DATA = {
       "label": "Hot Dog",
       "description": "Hot dog, ketchup, mayo, mustard, tomatoes, lettuce, pickles.",
       "order": 9,
-      "price": 2.5,
+      "price": 4,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594e2",
@@ -139,9 +157,15 @@ const MENU_DATA = {
       "label": "Pizza Regular",
       "description": "Ham, salami, cheese, olives, mushrooms, green pepper, sauce.",
       "order": 4,
-      "price": 8,
+      "price": 10,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594e4",
@@ -150,9 +174,15 @@ const MENU_DATA = {
       "label": "Pizza Margherita",
       "description": "Cheese, sauce.",
       "order": 5,
-      "price": 6,
+      "price": 8,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594fa",
@@ -161,9 +191,15 @@ const MENU_DATA = {
       "label": "Crab Salad",
       "description": "Crab, lettuce, corn, carrots.",
       "order": 2,
-      "price": 5,
+      "price": 6,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a959514",
@@ -227,9 +263,15 @@ const MENU_DATA = {
       "label": "Chicken Fajitas",
       "description": "Grilled chicken, cheese, mushrooms, onions, peppers, soy sauce, mayo, lettuce, pickles.",
       "order": 4,
-      "price": 6,
+      "price": 6.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594c2",
@@ -238,9 +280,15 @@ const MENU_DATA = {
       "label": "Tawouk",
       "description": "Grilled Tawouk, fries, mayo, lettuce, pickles.",
       "order": 5,
-      "price": 4,
+      "price": 5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594d2",
@@ -249,9 +297,15 @@ const MENU_DATA = {
       "label": "Double Cheese Burger",
       "description": "2 Beef patties, 2 cheese slices, sauce, coleslaw, tomatoes, pickles.",
       "order": 3,
-      "price": 6,
+      "price": 8,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594de",
@@ -260,9 +314,15 @@ const MENU_DATA = {
       "label": "Pizza Chicken",
       "description": "Chicken, cheese, mushrooms, sauce.",
       "order": 2,
-      "price": 8,
+      "price": 10,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594e0",
@@ -271,9 +331,15 @@ const MENU_DATA = {
       "label": "Pizza BBQ Chicken",
       "description": "Chicken, cheese, mushrooms, Barbecue sauce.",
       "order": 3,
-      "price": 8,
+      "price": 10,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594e8",
@@ -282,9 +348,15 @@ const MENU_DATA = {
       "label": "Pizza Sujuk",
       "description": "Cheese, sujuk, sauce, tomatoes.",
       "order": 7,
-      "price": 8,
+      "price": 10,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594ea",
@@ -293,9 +365,15 @@ const MENU_DATA = {
       "label": "Pizza Tuna",
       "description": "Tuna, mushrooms, tomatoes, green pepper, onions, sauce.",
       "order": 8,
-      "price": 7,
+      "price": 9,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594f0",
@@ -304,9 +382,15 @@ const MENU_DATA = {
       "label": "Chicken Tenders",
       "description": "5 pieces of crispy chicken, served with coleslaw, fries and garlic mayo dip.",
       "order": 3,
-      "price": 7,
+      "price": 9,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594f2",
@@ -315,9 +399,15 @@ const MENU_DATA = {
       "label": "Chicken Fajitas Platter",
       "description": "Fajitas sandwich served with french fries and coleslaw.",
       "order": 4,
-      "price": 8,
+      "price": 9,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594f6",
@@ -326,9 +416,15 @@ const MENU_DATA = {
       "label": "Chicken Breast Burger Platter",
       "description": "2 Grilled chicken served with coleslaw, fries, garlic mayo dip and one burger bun.",
       "order": 6,
-      "price": 7,
+      "price": 9,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a959510",
@@ -370,9 +466,15 @@ const MENU_DATA = {
       "label": "Steak and Cheese",
       "description": "Steak, cheese, mushrooms, mayo, lettuce, pickles.",
       "order": 1,
-      "price": 6,
+      "price": 6.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594cc",
@@ -381,9 +483,15 @@ const MENU_DATA = {
       "label": "Tuna Fish",
       "description": "Tuna, mayo, mustard, lettuce, tomatoes, pickles.",
       "order": 10,
-      "price": 4,
+      "price": 4.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594d6",
@@ -392,9 +500,15 @@ const MENU_DATA = {
       "label": "Chicken Breast Burger",
       "description": "Grilled chicken, fries, garlic, mayo, lettuce, pickles.",
       "order": 5,
-      "price": 3,
+      "price": 4,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594da",
@@ -403,9 +517,15 @@ const MENU_DATA = {
       "label": "BBQ Chicken Burger",
       "description": "Crispy chicken, cheese, fries, Barbecue, mayo, lettuce, pickles.",
       "order": 7,
-      "price": 4,
+      "price": 5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594f4",
@@ -414,9 +534,15 @@ const MENU_DATA = {
       "label": "Tawouk Platter",
       "description": "Grilled tawouk served with coleslaw, fries, garlic mayo dip and lebanese bread.",
       "order": 5,
-      "price": 8,
+      "price": 10,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a959500",
@@ -425,9 +551,15 @@ const MENU_DATA = {
       "label": "Cabbage Salad",
       "description": "Cabbage, mayonnaise, corn.",
       "order": 5,
-      "price": 2,
+      "price": 3,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a959504",
@@ -436,9 +568,15 @@ const MENU_DATA = {
       "label": "Fries Box",
       "description": "",
       "order": 2,
-      "price": 2,
+      "price": 2.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a959506",
@@ -447,9 +585,15 @@ const MENU_DATA = {
       "label": "Fries Sandwich",
       "description": "",
       "order": 3,
-      "price": 2.5,
+      "price": 3,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a95950e",
@@ -480,9 +624,15 @@ const MENU_DATA = {
       "label": "Chicken Steak",
       "description": "Grilled chicken, cheese, mushrooms, mayo, lettuce, pickles.",
       "order": 3,
-      "price": 5,
+      "price": 5.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594c4",
@@ -491,9 +641,15 @@ const MENU_DATA = {
       "label": "Sujuk",
       "description": "Sujuk, mayo, lettuce, tomatoes, pickles.",
       "order": 6,
-      "price": 3.5,
+      "price": 4.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594c8",
@@ -502,9 +658,15 @@ const MENU_DATA = {
       "label": "Submarine",
       "description": "Cheese, ham, salami, mayo, mustard, tomatoes, lettuce, pickles.",
       "order": 8,
-      "price": 5,
+      "price": 6,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594ce",
@@ -513,9 +675,15 @@ const MENU_DATA = {
       "label": "Hamburger",
       "description": "Beef patty, sauce, coleslaw, tomatoes, pickles.",
       "order": 1,
-      "price": 3,
+      "price": 4,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594d0",
@@ -524,9 +692,15 @@ const MENU_DATA = {
       "label": "Cheese Burger",
       "description": "Beef patty, cheese, sauce, coleslaw, tomatoes, pickles.",
       "order": 2,
-      "price": 3.5,
+      "price": 5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594d4",
@@ -535,9 +709,15 @@ const MENU_DATA = {
       "label": "Zoro Burger",
       "description": "Beef patty, cheese, ham, salami, sauce, coleslaw, tomatoes, pickles.",
       "order": 4,
-      "price": 5.5,
+      "price": 6.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594d8",
@@ -546,9 +726,15 @@ const MENU_DATA = {
       "label": "Crispy Chicken Burger",
       "description": "Crispy chicken, cheese, fries, garlic, mayo, lettuce, pickles.",
       "order": 6,
-      "price": 4,
+      "price": 5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594dc",
@@ -557,9 +743,15 @@ const MENU_DATA = {
       "label": "Pizza Pepperoni",
       "description": "Pepperoni, cheese, mushrooms, sauce.",
       "order": 1,
-      "price": 8,
+      "price": 10,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594e6",
@@ -568,9 +760,15 @@ const MENU_DATA = {
       "label": "Pizza Vegetarian",
       "description": "Cheese, mushrooms, corn, green pepper, olives, sauce.",
       "order": 6,
-      "price": 7,
+      "price": 9,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594ec",
@@ -579,9 +777,15 @@ const MENU_DATA = {
       "label": "Hamburger Platter",
       "description": "2 Beef patties served with coleslaw, fries and one burger bun.",
       "order": 1,
-      "price": 7,
+      "price": 9,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594ee",
@@ -590,9 +794,15 @@ const MENU_DATA = {
       "label": "Cheese Burger Platter",
       "description": "2 Beef patties with cheese served with coleslaw, fries and one burger bun.",
       "order": 2,
-      "price": 9,
+      "price": 11,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594f8",
@@ -601,9 +811,15 @@ const MENU_DATA = {
       "label": "Chicken Caesar Salad",
       "description": "Iceberg, grilled chicken, croutons, caesar sauce.",
       "order": 1,
-      "price": 5,
+      "price": 6,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594fc",
@@ -612,9 +828,15 @@ const MENU_DATA = {
       "label": "Chef Salad",
       "description": "Lettuce, tomatoes, cucumbers, tuna, ham, corn, cheese.",
       "order": 3,
-      "price": 5,
+      "price": 6,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a9594fe",
@@ -623,9 +845,15 @@ const MENU_DATA = {
       "label": "Season Salad",
       "description": "Lettuce, tomatoes, cucumbers, corn.",
       "order": 4,
-      "price": 3,
+      "price": 4,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a959502",
@@ -634,9 +862,15 @@ const MENU_DATA = {
       "label": "Fries Plate",
       "description": "",
       "order": 1,
-      "price": 2.5,
+      "price": 3,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "675a2482cdc204c14a959508",
