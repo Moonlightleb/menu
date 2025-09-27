@@ -946,9 +946,15 @@ const MENU_DATA = {
       "label": "Perrier",
       "description": "",
       "order": 14,
-      "price": 1,
+      "price": 1.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": null,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     }
   ]
 };
