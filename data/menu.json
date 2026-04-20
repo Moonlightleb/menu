@@ -1,4 +1,5 @@
 {
+  "_dataFreshness": "Monday, 20 April 2026 15:00:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -16,12 +17,11 @@
     "mainLang": "en",
     "storeName": "Moonlight",
     "aboutUs": "",
-    "aboutUsTranslation": {},
+    "aboutUsTranslation": null,
     "displayedPhoneNumber": "03 574 745",
     "phoneNumber": "+9613574745",
     "storeLogo": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/6b2cf9b7-57aa-488c-a150-a200ec15aeb2.png",
-    "quote": null,
-    "templateId": "moonlight"
+    "quote": null
   },
   "categories": [],
   "sub_categories": [
