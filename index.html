@@ -12,9 +12,14 @@
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
-    <div id="progress-bar">
-      <div id="progress"></div>
+    <!-- LOADING OVERLAY -->
+    <div id="loader-overlay">
+      <div class="loader-content">
+        <div class="loader-spinner"></div>
+        <p class="loader-text">Loading menu…</p>
+      </div>
     </div>
+
     <div id="content" style="display: none">
       <header id="header"></header>
       <div id="btn-group"></div>
@@ -42,8 +47,7 @@
       </a>
     </div>
 
-    <script src="https://menus.blob.core.windows.net/shared/utils/logs.js"></script>
-    <script src="./data/data.js"></script>
+    <script src="./kss-engine/kss-engine.js"></script>
     <script src="./script.js"></script>
   </body>
 </html>
