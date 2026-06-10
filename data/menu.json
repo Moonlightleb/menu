@@ -1,5 +1,5 @@
 {
-  "_dataFreshness": "Monday, 20 April 2026 15:00:00 UTC",
+  "_dataFreshness": "Wednesday, 10 June 2026 13:30:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -29,73 +29,93 @@
       "_id": "675a264036bb2bab0961122a",
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Sandwiches",
-      "order": 0,
+      "order": 1,
       "img": "",
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/f3a60723-d200-42ef-b035-010ba5d9427a.jpg",
-      "hide": false
+      "hide": false,
+      "sizes": []
     },
     {
       "_id": "675a264036bb2bab0961122c",
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Burgers",
-      "order": 1,
+      "order": 2,
       "img": "",
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/1039bd92-cc28-4eb1-a431-355cb9b45e15.jpg",
-      "hide": false
+      "hide": false,
+      "sizes": []
     },
     {
       "_id": "675a264036bb2bab0961122e",
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Pizza",
-      "order": 2,
+      "order": 3,
       "img": "",
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/d10632e7-9781-4492-b8f0-4a5b8e6d023f.jpg",
-      "hide": false
+      "hide": false,
+      "sizes": []
     },
     {
       "_id": "675a264036bb2bab09611230",
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Platters",
-      "order": 3,
+      "order": 4,
       "img": "",
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/444fcc98-7ca7-4f3d-b344-df788d919a7f.jpg",
-      "hide": false
+      "hide": false,
+      "sizes": []
     },
     {
       "_id": "675a264036bb2bab09611232",
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Salads",
-      "order": 4,
+      "order": 5,
       "img": "",
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/310bfb74-d7dd-404a-a8a7-1c090e1294b1.jpg",
-      "hide": false
+      "hide": false,
+      "sizes": []
     },
     {
       "_id": "675a264036bb2bab09611234",
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Fries",
-      "order": 5,
+      "order": 6,
       "img": "",
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/9256382e-a27f-468d-9b8c-1fc7bfe39f73.jpg",
-      "hide": false
+      "hide": false,
+      "sizes": []
     },
     {
       "_id": "675a264036bb2bab09611236",
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Desserts",
-      "order": 6,
+      "order": 8,
       "img": "",
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/0c033fc3-b88c-4daf-8426-15ef55764a4e.jpg",
-      "hide": false
+      "hide": false,
+      "sizes": []
     },
     {
       "_id": "675a264036bb2bab09611238",
       "menuId": "66d739121389bc24cc9d5407",
       "label": "Drinks",
-      "order": 7,
+      "order": 9,
       "img": "",
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/fee15c57-143b-4169-ba66-2e8caae946ac.jpg",
-      "hide": false
+      "hide": false,
+      "sizes": []
+    },
+    {
+      "_id": "6a2965591c321f7baf207ffb",
+      "menuId": "66d739121389bc24cc9d5407",
+      "label": "Light Menu",
+      "order": 7,
+      "img": null,
+      "bgImg": "",
+      "useSizes": false,
+      "sizes": [],
+      "hide": false,
+      "note": null
     }
   ],
   "items": [
@@ -955,6 +975,74 @@
       "is_New": false,
       "is_Starred": false,
       "unit": null
+    },
+    {
+      "_id": "6a2965591c321f7baf208005",
+      "menuId": "66d739121389bc24cc9d5407",
+      "subcategoryId": "6a2965591c321f7baf207ffb",
+      "label": "Chicken Sandwich",
+      "description": null,
+      "unit": null,
+      "order": 1781097712736,
+      "price": null,
+      "img": null,
+      "bgImg": null,
+      "hide": false,
+      "calories": null,
+      "is_Light": false,
+      "is_Starred": false,
+      "is_New": false
+    },
+    {
+      "_id": "6a2965591c321f7baf208006",
+      "menuId": "66d739121389bc24cc9d5407",
+      "subcategoryId": "6a2965591c321f7baf207ffb",
+      "label": "Tuna Sandwich",
+      "description": null,
+      "unit": null,
+      "order": 1781097739646,
+      "price": null,
+      "img": null,
+      "bgImg": null,
+      "hide": false,
+      "calories": null,
+      "is_Light": false,
+      "is_Starred": false,
+      "is_New": false
+    },
+    {
+      "_id": "6a2965591c321f7baf208007",
+      "menuId": "66d739121389bc24cc9d5407",
+      "subcategoryId": "6a2965591c321f7baf207ffb",
+      "label": "Tawouk Platter",
+      "description": null,
+      "unit": null,
+      "order": 1781097762097,
+      "price": null,
+      "img": null,
+      "bgImg": null,
+      "hide": false,
+      "calories": null,
+      "is_Light": false,
+      "is_Starred": false,
+      "is_New": false
+    },
+    {
+      "_id": "6a2965591c321f7baf208008",
+      "menuId": "66d739121389bc24cc9d5407",
+      "subcategoryId": "6a2965591c321f7baf207ffb",
+      "label": "Chicken Platter",
+      "description": null,
+      "unit": null,
+      "order": 1781097773366,
+      "price": null,
+      "img": null,
+      "bgImg": null,
+      "hide": false,
+      "calories": null,
+      "is_Light": false,
+      "is_Starred": false,
+      "is_New": false
     }
   ]
 }
