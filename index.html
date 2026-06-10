@@ -3,39 +3,63 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+    <meta name="theme-color" content="#1a1a2e" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent" />
+    <meta name="description" content="Digital Menu - Moonlight Restaurant" />
     <title>Moonlight</title>
     <link
+      rel="preload"
+      href="./fonts/cormorant-garamond-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin />
+    <link
+      rel="preload"
+      href="./fonts/plus-jakarta-sans-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin />
+    <link
       rel="shortcut icon"
-      href="./images/moonlight-logo-low.png"
+      href="https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/6b2cf9b7-57aa-488c-a150-a200ec15aeb2.png"
       type="image/x-icon" />
-    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/features.css" />
   </head>
   <body>
-    <!-- LOADING OVERLAY -->
-    <div id="loader-overlay">
-      <div class="loader-content">
-        <div class="loader-spinner"></div>
-        <p class="loader-text">Loading menu…</p>
-      </div>
+    <div id="progress-bar">
+      <div class="loader-logo" id="loader-logo"></div>
+      <div id="progress"></div>
     </div>
-
     <div id="content" style="display: none">
       <header id="header"></header>
-      <div id="btn-group"></div>
+      <nav id="btn-group" role="navigation" aria-label="Menu categories"></nav>
       <main>
         <div id="menu-body"></div>
       </main>
     </div>
 
-    <div id="up-btn" onclick="click_Tag('header')">
+    <div
+      id="up-btn"
+      onclick="click_Tag('header')"
+      role="button"
+      aria-label="Back to top">
+      <svg class="progress-ring" viewBox="0 0 50 50">
+        <circle class="progress-ring-bg" cx="25" cy="25" r="22.5" />
+        <circle class="progress-ring-fill" cx="25" cy="25" r="22.5" />
+      </svg>
       <a class="reference" href="#header">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
           height="16"
           fill="currentColor"
-          class="bi bi-chevron-double-up"
+          class="up-icon"
           viewBox="0 0 16 16">
           <path
             fill-rule="evenodd"
@@ -47,7 +71,24 @@
       </a>
     </div>
 
+    <footer class="menu-footer" role="contentinfo">
+      <p class="menu-footer-meta">
+        <span id="year">&copy; 2025</span>
+        <span class="menu-footer-separator" aria-hidden="true"></span>
+        <span>Powered By</span>
+        <a
+          class="menu-footer-inline-link"
+          href="https://ks-solutions-lb.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Visit KS Solutions">
+          KS Solutions
+        </a>
+      </p>
+    </footer>
+
     <script src="./kss-engine/kss-engine.js"></script>
-    <script src="./script.js"></script>
+    <script src="./js/features.js"></script>
+    <script src="./js/script.js"></script>
   </body>
 </html>
