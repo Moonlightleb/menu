@@ -1,5 +1,5 @@
 {
-  "_dataFreshness": "Wednesday, 10 June 2026 22:00:01 UTC",
+  "_dataFreshness": "Thursday, 11 June 2026 16:30:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -133,7 +133,7 @@
       "label": "Light Menu",
       "order": 7,
       "img": "https://menus.blob.core.windows.net/shared/6a17240f2d67f9047e7ccda4/7daedc9f-9643-4c42-b9bd-5fabeb731f5b.svg",
-      "bgImg": "",
+      "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/62312095-05f8-41dd-9720-2fe2b6bf185c.png",
       "useSizes": false,
       "sizes": [],
       "hide": false,
@@ -969,13 +969,13 @@
       "sizes": []
     },
     {
-      "_id": "6a29dd1a1c321f7baf20893e",
+      "_id": "6a29dd1a1c321f7baf20893f",
       "menuId": "66d739121389bc24cc9d5407",
       "subcategoryId": "6a29dd1a1c321f7baf208900",
-      "label": "Tuna Sandwich",
-      "description": null,
+      "label": "Tawouk Platter",
+      "description": "Grilled tawouk served with saison salad, grilled fries and lemon mustard dip.",
       "unit": null,
-      "order": 2,
+      "order": 3,
       "price": null,
       "img": "",
       "bgImg": null,
@@ -986,13 +986,13 @@
       "is_New": true
     },
     {
-      "_id": "6a29dd1a1c321f7baf20893f",
+      "_id": "6a29dd1a1c321f7baf20893e",
       "menuId": "66d739121389bc24cc9d5407",
       "subcategoryId": "6a29dd1a1c321f7baf208900",
-      "label": "Tawouk Platter",
-      "description": "Grilled tawouk served with saison salad, grilled fries and lemon mustard dip.",
+      "label": "Tuna Sandwich",
+      "description": null,
       "unit": null,
-      "order": 3,
+      "order": 2,
       "price": null,
       "img": "",
       "bgImg": null,
