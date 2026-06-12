@@ -1,5 +1,5 @@
 {
-  "_dataFreshness": "Thursday, 11 June 2026 16:30:00 UTC",
+  "_dataFreshness": "Friday, 12 June 2026 12:00:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -136,7 +136,7 @@
       "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/62312095-05f8-41dd-9720-2fe2b6bf185c.png",
       "useSizes": false,
       "sizes": [],
-      "hide": false,
+      "hide": true,
       "note": null
     }
   ],
@@ -149,9 +149,9 @@
       "description": "Steak, cheese, mushrooms, mayo, lettuce, pickles.",
       "unit": null,
       "order": 1,
-      "price": 6.5,
+      "price": 7.5,
       "img": "",
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Light": false,
@@ -167,9 +167,9 @@
       "description": "Steak, cheese, mushrooms, onions, peppers, soy sauce, mayo, lettuce, pickles.",
       "unit": null,
       "order": 2,
-      "price": 7,
+      "price": 8,
       "img": "",
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Light": false,
@@ -185,9 +185,9 @@
       "description": "Grilled chicken, cheese, mushrooms, mayo, lettuce, pickles.",
       "unit": null,
       "order": 3,
-      "price": 5.5,
+      "price": 6,
       "img": "",
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Light": false,
@@ -203,9 +203,9 @@
       "description": "Grilled chicken, cheese, mushrooms, onions, peppers, soy sauce, mayo, lettuce, pickles.",
       "unit": null,
       "order": 4,
-      "price": 6.5,
+      "price": 7,
       "img": "",
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Light": false,
@@ -238,14 +238,15 @@
       "description": "Sujuk, mayo, lettuce, tomatoes, pickles.",
       "unit": null,
       "order": 6,
-      "price": 4.5,
+      "price": 5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208917",
@@ -255,14 +256,15 @@
       "description": "Sujuk, cheese, mayo, lettuce, tomatoes, pickles.",
       "unit": null,
       "order": 7,
-      "price": 5.5,
+      "price": 6,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20890c",
@@ -290,14 +292,15 @@
       "description": "Hot dog, ketchup, mayo, mustard, tomatoes, lettuce, pickles.",
       "unit": null,
       "order": 9,
-      "price": 4,
+      "price": 5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20891e",
@@ -307,14 +310,15 @@
       "description": "Tuna, mayo, mustard, lettuce, tomatoes, pickles.",
       "unit": null,
       "order": 10,
-      "price": 4.5,
+      "price": 5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20892e",
@@ -324,14 +328,15 @@
       "description": "Beef patty, sauce, coleslaw, tomatoes, pickles.",
       "unit": null,
       "order": 1,
-      "price": 4,
+      "price": 5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20891f",
@@ -341,14 +346,15 @@
       "description": "Beef patty, cheese, sauce, coleslaw, tomatoes, pickles.",
       "unit": null,
       "order": 2,
-      "price": 5,
+      "price": 6,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20892a",
@@ -358,14 +364,15 @@
       "description": "2 Beef patties, 2 cheese slices, sauce, coleslaw, tomatoes, pickles.",
       "unit": null,
       "order": 3,
-      "price": 8,
+      "price": 9,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208939",
@@ -375,14 +382,15 @@
       "description": "Beef patty, cheese, ham, salami, sauce, coleslaw, tomatoes, pickles.",
       "unit": null,
       "order": 4,
-      "price": 6.5,
+      "price": 7.5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20890d",
@@ -392,14 +400,15 @@
       "description": "Grilled chicken, fries, garlic, mayo, lettuce, pickles.",
       "unit": null,
       "order": 5,
-      "price": 4,
+      "price": 4.5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208929",
@@ -409,14 +418,15 @@
       "description": "Crispy chicken, cheese, fries, garlic, mayo, lettuce, pickles.",
       "unit": null,
       "order": 6,
-      "price": 5,
+      "price": 5.5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208928",
@@ -426,14 +436,15 @@
       "description": "Crispy chicken, cheese, fries, Barbecue, mayo, lettuce, pickles.",
       "unit": null,
       "order": 7,
-      "price": 5,
+      "price": 5.5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20891a",
@@ -443,14 +454,15 @@
       "description": "Pepperoni, cheese, mushrooms, sauce.",
       "unit": null,
       "order": 1,
-      "price": 10,
+      "price": 12,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208935",
@@ -460,14 +472,15 @@
       "description": "Chicken, cheese, mushrooms, sauce.",
       "unit": null,
       "order": 2,
-      "price": 10,
+      "price": 12,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20892b",
@@ -477,14 +490,15 @@
       "description": "Chicken, cheese, mushrooms, Barbecue sauce.",
       "unit": null,
       "order": 3,
-      "price": 10,
+      "price": 12,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208933",
@@ -494,14 +508,15 @@
       "description": "Ham, salami, cheese, olives, mushrooms, green pepper, sauce.",
       "unit": null,
       "order": 4,
-      "price": 10,
+      "price": 12,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208937",
@@ -511,14 +526,15 @@
       "description": "Cheese, sauce.",
       "unit": null,
       "order": 5,
-      "price": 8,
+      "price": 9,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20891b",
@@ -528,14 +544,15 @@
       "description": "Cheese, mushrooms, corn, green pepper, olives, sauce.",
       "unit": null,
       "order": 6,
-      "price": 9,
+      "price": 10,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208914",
@@ -545,14 +562,15 @@
       "description": "Cheese, sujuk, sauce, tomatoes.",
       "unit": null,
       "order": 7,
-      "price": 10,
+      "price": 12,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208922",
@@ -562,14 +580,15 @@
       "description": "Tuna, mushrooms, tomatoes, green pepper, onions, sauce.",
       "unit": null,
       "order": 8,
-      "price": 9,
+      "price": 10,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20892d",
@@ -579,14 +598,15 @@
       "description": "2 Beef patties served with coleslaw, fries and one burger bun.",
       "unit": null,
       "order": 1,
-      "price": 10,
+      "price": 12,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208924",
@@ -596,14 +616,15 @@
       "description": "2 Beef patties with cheese served with coleslaw, fries and one burger bun.",
       "unit": null,
       "order": 2,
-      "price": 12,
+      "price": 13,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208915",
@@ -613,14 +634,15 @@
       "description": "5 pieces of crispy chicken, served with coleslaw, fries and garlic mayo dip.",
       "unit": null,
       "order": 3,
-      "price": 9,
+      "price": 10,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208912",
@@ -630,14 +652,15 @@
       "description": "Fajitas sandwich served with french fries and coleslaw.",
       "unit": null,
       "order": 4,
-      "price": 9,
+      "price": 11,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208934",
@@ -647,14 +670,15 @@
       "description": "Grilled tawouk served with coleslaw, fries, garlic mayo dip and lebanese bread.",
       "unit": null,
       "order": 5,
-      "price": 10,
+      "price": 11,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208931",
@@ -664,14 +688,15 @@
       "description": "2 Grilled chicken served with coleslaw, fries, garlic mayo dip and one burger bun.",
       "unit": null,
       "order": 6,
-      "price": 9,
+      "price": 10,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20893b",
@@ -681,14 +706,15 @@
       "description": "Iceberg, grilled chicken, croutons, caesar sauce.",
       "unit": null,
       "order": 1,
-      "price": 6,
+      "price": 7,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20891d",
@@ -698,14 +724,15 @@
       "description": "Crab, lettuce, corn, carrots.",
       "unit": null,
       "order": 2,
-      "price": 6,
+      "price": 7,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208918",
@@ -715,14 +742,15 @@
       "description": "Lettuce, tomatoes, cucumbers, tuna, ham, corn, cheese.",
       "unit": null,
       "order": 3,
-      "price": 6,
+      "price": 7,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208927",
@@ -766,9 +794,9 @@
       "description": "",
       "unit": null,
       "order": 1,
-      "price": 3,
+      "price": 3.5,
       "img": "",
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Light": false,
@@ -786,12 +814,13 @@
       "order": 2,
       "price": 2.5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208910",
@@ -801,14 +830,15 @@
       "description": "",
       "unit": null,
       "order": 3,
-      "price": 3,
+      "price": 3.5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208919",
@@ -818,9 +848,9 @@
       "description": "",
       "unit": null,
       "order": 1,
-      "price": 4,
+      "price": 4.5,
       "img": "",
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Light": false,
@@ -836,9 +866,9 @@
       "description": "Burger bread, chocolate, bananas.",
       "unit": null,
       "order": 2,
-      "price": 2,
+      "price": 3,
       "img": "",
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Light": false,
@@ -853,9 +883,16 @@
       "label": "Soft Drinks",
       "description": "",
       "order": 1,
-      "price": 1,
+      "price": 1.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": "",
+      "calories": null,
+      "img": null,
+      "is_Light": false,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "6a29dd1a1c321f7baf20893c",
@@ -886,9 +923,16 @@
       "label": "Nescafe",
       "description": "",
       "order": 4,
-      "price": 1.5,
+      "price": 2,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": "",
+      "calories": null,
+      "img": null,
+      "is_Light": false,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "6a29dd1a1c321f7baf20891c",
@@ -897,9 +941,16 @@
       "label": "Cappuccino",
       "description": "",
       "order": 5,
-      "price": 2,
+      "price": 2.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": "",
+      "calories": null,
+      "img": null,
+      "is_Light": false,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "6a29dd1a1c321f7baf20890b",
@@ -908,9 +959,16 @@
       "label": "Tea",
       "description": "",
       "order": 6,
-      "price": 1.5,
+      "price": 2,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": "",
+      "calories": null,
+      "img": null,
+      "is_Light": false,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "6a29dd1a1c321f7baf208925",
@@ -919,9 +977,16 @@
       "label": "Almaza Beer",
       "description": "",
       "order": 7,
-      "price": 2,
+      "price": 2.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": "",
+      "calories": null,
+      "img": null,
+      "is_Light": false,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "6a29dd1a1c321f7baf208921",
@@ -930,9 +995,16 @@
       "label": "Heineken Beer",
       "description": "",
       "order": 8,
-      "price": 2.5,
+      "price": 3,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": "",
+      "calories": null,
+      "img": null,
+      "is_Light": false,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "6a29dd1a1c321f7baf208926",
@@ -942,14 +1014,15 @@
       "description": "",
       "unit": null,
       "order": 9,
-      "price": 4,
+      "price": 4.5,
       "img": null,
-      "bgImg": null,
+      "bgImg": "",
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf208916",
