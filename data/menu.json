@@ -1,5 +1,5 @@
 {
-  "_dataFreshness": "Friday, 12 June 2026 17:30:00 UTC",
+  "_dataFreshness": "Friday, 12 June 2026 18:00:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -97,7 +97,7 @@
       "label": "Fries",
       "order": 6,
       "img": "https://menus.blob.core.windows.net/shared/6a17240f2d67f9047e7ccda4/65b1cc64-72d9-4832-842e-c737b6b6b356.svg",
-      "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/7bfeae0d-7b0a-484a-b00b-7687e16124b7.png",
+      "bgImg": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/38b78b04-9286-4ebb-9ba1-7a3764b12445.png",
       "useSizes": false,
       "sizes": [],
       "hide": false,
