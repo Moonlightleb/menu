@@ -1,5 +1,5 @@
 {
-  "_dataFreshness": "Friday, 26 June 2026 11:30:00 UTC",
+  "_dataFreshness": "Friday, 26 June 2026 12:00:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -578,11 +578,11 @@
       "menuId": "66d739121389bc24cc9d5407",
       "subcategoryId": "6a29dd1a1c321f7baf2088fa",
       "label": "Pizza Tuna",
-      "description": "Tuna, mushrooms, tomatoes, green pepper, onions, sauce.",
+      "description": "Tuna, sauce, mushrooms, tomatoes, green pepper, corn, olives and onions.",
       "unit": null,
       "order": 8,
       "price": 10,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/33c1dca5-23cb-4dd0-8b64-b69df17d22df.jpg",
       "bgImg": "",
       "hide": false,
       "calories": null,
