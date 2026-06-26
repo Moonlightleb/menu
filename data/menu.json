@@ -1,5 +1,5 @@
 {
-  "_dataFreshness": "Friday, 26 June 2026 12:30:00 UTC",
+  "_dataFreshness": "Friday, 26 June 2026 13:30:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -780,13 +780,14 @@
       "unit": null,
       "order": 5,
       "price": 3,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/13696ffa-d590-4bb9-9ccd-8c9dfa3ada85.jpg",
       "bgImg": null,
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20890f",
