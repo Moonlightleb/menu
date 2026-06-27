@@ -1,5 +1,5 @@
 {
-  "_dataFreshness": "Saturday, 27 June 2026 10:00:00 UTC",
+  "_dataFreshness": "Saturday, 27 June 2026 19:00:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -891,7 +891,7 @@
       "sizes": [],
       "bgImg": "",
       "calories": null,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/879d80c5-3ab9-4355-9f86-1e972ae78d23.jpg",
       "is_Light": false,
       "is_New": false,
       "is_Starred": false,
@@ -906,7 +906,14 @@
       "order": 2,
       "price": 0.5,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/69d94b79-febf-4820-8c81-8a0550a9d3c6.jpg",
+      "is_Light": false,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "6a29dd1a1c321f7baf208938",
@@ -917,7 +924,14 @@
       "order": 3,
       "price": 1,
       "hide": false,
-      "sizes": []
+      "sizes": [],
+      "bgImg": null,
+      "calories": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/6655fea1-40ec-4bf4-9ec1-bea230505b86.jpg",
+      "is_Light": false,
+      "is_New": false,
+      "is_Starred": false,
+      "unit": null
     },
     {
       "_id": "6a29dd1a1c321f7baf20890e",
@@ -931,7 +945,7 @@
       "sizes": [],
       "bgImg": "",
       "calories": null,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/4c9e1b67-1ca0-42ae-9cf1-9354deb2710a.jpg",
       "is_Light": false,
       "is_New": false,
       "is_Starred": false,
@@ -949,7 +963,7 @@
       "sizes": [],
       "bgImg": "",
       "calories": null,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/37fb56ec-9a5b-40f2-9eb8-e82fd2a77685.jpg",
       "is_Light": false,
       "is_New": false,
       "is_Starred": false,
@@ -967,7 +981,7 @@
       "sizes": [],
       "bgImg": "",
       "calories": null,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/e95352b9-3c21-4c76-9d4f-cf66239361f4.jpg",
       "is_Light": false,
       "is_New": false,
       "is_Starred": false,
@@ -985,7 +999,7 @@
       "sizes": [],
       "bgImg": "",
       "calories": null,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/e21c97b2-738f-43ce-b79c-5db0df04bf00.jpg",
       "is_Light": false,
       "is_New": false,
       "is_Starred": false,
@@ -1003,7 +1017,7 @@
       "sizes": [],
       "bgImg": "",
       "calories": null,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/b6773a90-1445-4105-bf21-0de7c0c1a18f.jpg",
       "is_Light": false,
       "is_New": false,
       "is_Starred": false,
@@ -1018,7 +1032,7 @@
       "unit": null,
       "order": 9,
       "price": 4.5,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/75720dbd-fbce-4d85-8bf4-2297ba99c626.jpg",
       "bgImg": "",
       "hide": false,
       "calories": null,
@@ -1036,13 +1050,14 @@
       "unit": null,
       "order": 10,
       "price": 1.5,
-      "img": null,
+      "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/a2353669-e87f-429a-b24f-c232eccad6b2.jpg",
       "bgImg": null,
       "hide": false,
       "calories": null,
       "is_Starred": false,
       "is_New": false,
-      "sizes": []
+      "sizes": [],
+      "is_Light": false
     },
     {
       "_id": "6a29dd1a1c321f7baf20893f",
