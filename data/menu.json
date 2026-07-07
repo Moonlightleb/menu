@@ -1,5 +1,5 @@
 {
-  "_dataFreshness": "Sunday, 5 July 2026 09:00:00 UTC",
+  "_dataFreshness": "Tuesday, 7 July 2026 13:00:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -854,7 +854,7 @@
       "price": 4.5,
       "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/0f19e09b-ff25-4f35-94b1-fb481b203550.jpg",
       "bgImg": "",
-      "hide": true,
+      "hide": false,
       "calories": null,
       "is_Light": false,
       "is_Starred": true,
@@ -1060,13 +1060,13 @@
       "is_Light": false
     },
     {
-      "_id": "6a29dd1a1c321f7baf20893e",
+      "_id": "6a29dd1a1c321f7baf20893f",
       "menuId": "66d739121389bc24cc9d5407",
       "subcategoryId": "6a29dd1a1c321f7baf208900",
-      "label": "Tuna Sandwich",
-      "description": null,
+      "label": "Tawouk Platter",
+      "description": "Grilled tawouk served with saison salad, grilled fries and lemon mustard dip.",
       "unit": null,
-      "order": 2,
+      "order": 3,
       "price": null,
       "img": "",
       "bgImg": null,
@@ -1077,13 +1077,13 @@
       "is_New": true
     },
     {
-      "_id": "6a29dd1a1c321f7baf20893f",
+      "_id": "6a29dd1a1c321f7baf20893e",
       "menuId": "66d739121389bc24cc9d5407",
       "subcategoryId": "6a29dd1a1c321f7baf208900",
-      "label": "Tawouk Platter",
-      "description": "Grilled tawouk served with saison salad, grilled fries and lemon mustard dip.",
+      "label": "Tuna Sandwich",
+      "description": null,
       "unit": null,
-      "order": 3,
+      "order": 2,
       "price": null,
       "img": "",
       "bgImg": null,
