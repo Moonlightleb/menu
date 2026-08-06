@@ -1,5 +1,5 @@
 {
-  "_dataFreshness": "Saturday, 25 July 2026 11:37:44 UTC",
+  "_dataFreshness": "Thursday, 6 August 2026 18:00:00 UTC",
   "store": {
     "sm": {
       "email": "",
@@ -1058,7 +1058,7 @@
       "description": "",
       "unit": null,
       "order": 10,
-      "price": 1.5,
+      "price": 2,
       "img": "https://menus.blob.core.windows.net/shared/66d739121389bc24cc9d5407/a2353669-e87f-429a-b24f-c232eccad6b2.jpg",
       "bgImg": null,
       "hide": false,
